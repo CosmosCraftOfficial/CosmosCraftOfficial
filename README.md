@@ -1,45 +1,19 @@
-# VaultCord verification page
+*Mankind will migrate into space, and will cross the airless Saharas which separate planet from planet and sun from sun.*
 
-> [!NOTE]  
-> You don't need to use GitHub anymore for VaultCord. You can choose the **Automatic** option on the dashboard to skip needing a GitHub account. GitHub simply gives you more customization over the design and text shown.
+—Winwood Reade, The Martyrdom of Man (1872)
 
-This is a verification page for the Discord backup bot [VaultCord](https://vaultcord.com) which can backup Discord members, Discord server channels, roles, messages, etc!
+Humans have always been explorers. When ancient humans stumbled across unknown lands or seas, they were compelled to explore them. They were driven by a desire to dare and conquer new frontiers and by a thirst for knowledge, wealth, and prestige. These are the same motivations that drove people of the twentieth century to venture into space.
 
-![image](https://github.com/VaultCord/vaultcord.github.io/assets/83034852/7b8e8771-149d-48ec-a89f-94dfa139cded)
+By definition, space begins at the edge of Earth’s atmosphere, just beyond the protective blanket of air and heat that surrounds the planet. This blanket is thick and dense near the surface and light and wispy farther away from the planet. About sixty-two miles (one hundred kilometers) above Earth the atmosphere becomes quite thin. According to the Fédération Aéronautique Internationale, in “The 100 km Boundary for Astronautics” (June 25, 2004, http://www.fai.org/press_releases/2004/documents/12-04_100km_astronautics.doc), this altitude is considered the first feathery edge of outer space.
 
-Click the **Use this template** button. Do <ins>**NOT**</ins> fork this repository. That will link your server to VaultCord which isn't good for privacy among other reasons.
+The very idea of space exploration has a sense of mystery and excitement about it. Americans call their space explorers astronauts. The term astronaut is a combination of two Greek words: astron (star) and nautes (sailor). Thus, astronauts are those who sail among the stars. This romantic imagery adds to the allure of space travel.
 
-Name your repository `your_username.github.io` so that it works correctly.
+The truth is that space holds many dangers to humans. Space is an inhospitable environment, devoid of air, food, or water. Everywhere it is either too hot or too cold for human life. Potentially harmful radiation flows in the form of cosmic rays from deep space and electromagnetic waves that emanate from the Sun and other stars. Tiny bits of rock and ice hurtle around in space at high velocities, like miniature missiles.
 
-![image](https://github.com/VaultCord/vaultcord.github.io/assets/83034852/e4071e0d-12ba-4c41-b212-a83810d34e87)
-![image](https://github.com/VaultCord/vaultcord.github.io/assets/83034852/56ea530e-47ef-45fc-ac76-8efde04f64bf)
+Space is not readily accessible. It takes a tremendous amount of power and thrust to hurl something off the surface of Earth. It is a fight against the force of Earth’s gravity and the heavy drag of an air-filled atmosphere.
 
-Click the top right avatar on GitHub to see your username. Mine is `wnelson03`, so I will set my repository name to `wnelson03.github.io`. Follow the same process to choose your repository name.
+Getting into space is not easy, and getting back to Earth safely is even tougher. Returning to Earth from space requires conquering another mighty force: friction. Any object penetrating Earth’s atmosphere from space encounters layers and layers of dense air molecules. Traveling at high speed and rubbing against these molecules produces a fiery blaze that can rip apart most objects.
 
-If you followed this correctly, you will be able to go to the `.github.io` domain and it will have the verification page. You may need to wait a minute or two for GitHub to process the new repository.
+It was not until the 1950s that the proper combination of skills and technology existed to overcome the obstacles of space travel. The political climate was also just right. Two rich and powerful nations (the Soviet Union and the United States) devoted their resources to besting one another in space instead of on the battlefield. It was this spirit of competition that pushed humans off the planet and onto the Moon in 1969.
 
-If you want your own custom domain such as `verify.mysite.com`, follow [these instructions](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
-
-### Verified message
-
-You can customize the verified message by changing the value for `vc-verify-success` in the `index.html` file.
-
-```html
-vc-verify-success="You are verified now!"
-```
-
-### Error message
-
-You can customize the error message by changing the value for `vc-verify-error` in the `index.html` file.
-
-```html
-vc-verify-error=="We have detected an error!"
-```
-
-### Captcha message
-
-You can customize the captcha message by changing the value for `vc-captcha-require` in the `index.html` file.
-
-```html
-vc-captcha-require="We require a captcha to check you are human!"
-```
+Once that race was over, space priorities changed. In the twenty-first century, computerized machines do most of the exploring. They investigate planets, asteroids, comets, and the Sun. Human explorers stay much closer to Earth. They visit and live aboard space stations in orbit a couple hundred miles above the planet. On Earth people dream of longer journeys because most of space is still an unknown sea, just waiting to be explored.
